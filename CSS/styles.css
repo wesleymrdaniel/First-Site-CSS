@@ -1,0 +1,43 @@
+p {
+   font-family: sans-serif;
+}
+
+body {
+background-color: #222831;
+}
+
+hr {
+background-color:#222831;
+border-style: none;
+border-top:7px dotted #393e46;
+color:#222831;
+width: 7%;
+}
+
+img {
+border-radius: 50%;
+}
+
+img:hover {
+filter: blur(4px);
+}
+
+#myspan:hover {
+ color: #414141;
+}
+
+h1 {
+  color: #7d7d7d;
+}
+
+h2 {
+  color: #63686e;
+}
+
+h3 {
+  color: #63686e;
+}
+
+body {
+  color: #63686e;
+}
